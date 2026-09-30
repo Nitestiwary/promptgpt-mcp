@@ -1,0 +1,20 @@
+{
+  "name": "promptgpt-marketplace",
+  "interface": {
+    "displayName": "PromptGPT Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "promptgpt",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
