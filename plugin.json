@@ -1,0 +1,19 @@
+{
+  "": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "promptgpt",
+  "version": "1.0.1",
+  "description": "Craft, refine, and structure prompts for image, video, code, and text workflows.",
+  "author": {
+    "name": "Monetiscope Services LLP",
+    "email": "support@monetiscope.com",
+    "url": "https://promptgpt.io"
+  },
+  "homepage": "https://promptgpt.io",
+  "repository": "https://github.com/monetiscope/promptgpt",
+  "license": "Proprietary",
+  "keywords": [
+    "prompt engineering",
+    "developer tools",
+    "prompt studio"
+  ]
+}

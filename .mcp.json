@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "promptgpt": {
+      "type": "streamable-http",
+      "url": "https://promptgpt.io/mcp"
+    }
+  }
+}
